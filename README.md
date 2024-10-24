@@ -1,5 +1,5 @@
 <h1>Leonardo Costa</h1>
-<h3>Técnico de Gestão e Programação de Sistemas Infomráticos</h3>
+<h3>Técnico de Gestão e Programação de Sistemas Informáticos</h3>
 <a href="mailto:a14479@oficina.pt">Enviar email</a>
 
 - 👋 Hi, I’m @a14479-oficina
